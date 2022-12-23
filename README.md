@@ -1,6 +1,6 @@
 # CVDG Logos
 
-We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and at least 3 versions (color/black/white).
+We prepare artwork in 2 formats (PNG & SVG) and 3 versions (traprent/light/black backgrounds).
 
 With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
