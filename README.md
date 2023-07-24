@@ -8,4 +8,4 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 Use of any trademark or logo is subject to the trademark policy from [Linux Foundation's Trademark Policy](https://www.linuxfoundation.org/trademark-usage).
 
-Questions? Please email hello@cvdg.tech.
+Questions? Please email contact@cvdg.tech.
